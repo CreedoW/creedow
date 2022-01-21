@@ -1,16 +1,12 @@
-### Hi there 👋
+🐱‍👤 Known as: CreedoW || cw || Rivalu <br><br>
+Skills: 
+- js (basic)
+- html (medium)
+- css (basic)
+- operating an linux machine (medium)<br>
 
-<!--
-**CreedoW/creedow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MC - https://ro.namemc.com/profile/Rivalu.1 || Rivalu<br>
+Roblox - https://www.roblox.com/users/313367974/profile || CreedoW<br>
+Discord - https://discordapp.com/users/310121315518382091/ || creedow#8908<br>
+V3rmillion - https://v3rmillion.net/member.php?action=profile&uid=919891 || CreedoW<br>
+<br>END OF STORY
