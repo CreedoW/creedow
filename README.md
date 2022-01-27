@@ -3,6 +3,7 @@ Skills:
 - js (basic)
 - html (medium)
 - css (basic)
+- php (basic)
 - operating an linux machine (medium)<br>
 
 MC - https://ro.namemc.com/profile/Rivalu.1 || Rivalu<br>
