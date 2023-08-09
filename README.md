@@ -4,4 +4,5 @@ Skills:
 - html (medium)
 - css (basic)
 - php (basic)
-- operating an linux machine (medium)<br>
+- operating an linux machine (medium)
+- python (medium)<br>
